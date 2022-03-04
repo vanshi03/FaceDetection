@@ -1,4 +1,4 @@
-# FaceDetection
+# Face Detection using Python
 This is a python project that detects faces in an Image or using a Webcam
 
 ## Module used : OpenCV
