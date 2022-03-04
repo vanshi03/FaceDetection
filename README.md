@@ -3,7 +3,7 @@ This is a python project that detects faces in an Image or using a Webcam
 
 ## Module used : OpenCV
 OpenCV is a highly optimized library with focus on real-time applications.It is primarily used to detect objects.
-
+## Steps/Procedure
  1)Make sure to install OpenCV before importing it using:pip install opencv-python<br>
  2)Import cv2 library<br>
  3)Since OpenCV already contains many pre-trained classifiers for face, eyes, smile, etc.All these XML files are stored in a folder.We will use face detection model it's XML is attached as 'face_detector.xml' in this github repo.<br>
